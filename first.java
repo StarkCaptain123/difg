@@ -1,9 +1,7 @@
-import java.io.*;
 class first
 {
-public static void main(String args[])
+public static void main()
 {
-	System.out.println("hello world");
-	System.out.println("hello world");
+	mnop obj=new mnop(); 
 }
 }
